@@ -4,3 +4,4 @@ file newly created
 adding content to the file
 adding some more content to the file
 adding content to the file
+adding new content to the file in new branch
