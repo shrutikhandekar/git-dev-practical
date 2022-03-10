@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 1st line merge file
 appended some lines to the merge file in main directory
+=======
+replacing the content of this file to merge later
+>>>>>>> merge-branch
