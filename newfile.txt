@@ -3,3 +3,4 @@ new branch is feature-1
 file newly created
 adding content to the file
 adding some more content to the file
+adding content to the file
