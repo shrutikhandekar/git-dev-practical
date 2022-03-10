@@ -1,1 +1,2 @@
 1st line merge file
+appended some lines to the merge file in main directory
